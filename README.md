@@ -1,4 +1,3 @@
-# FZ
-Flipper Zero Playground
+"Private" Flipper Zero Playground
 
 # The quieter you become, the more you are able to hear...
